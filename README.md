@@ -1,2 +1,2 @@
-# Streamlit-hello-app
-Sample repository for my awesome Youtube viewers.
+# Streamlit-app
+Sample repository for youtube video
